@@ -1,0 +1,10 @@
+Jmeter: For Performance Testing
+ 
+Jmeter is cross platform with a GUI.
+How to use jmeter?
+We open the bin folder on jmeter file, look for the batch file and run it. 
+By default the first test plan is named “Test Plan” - we can rename this. There are various options to test performance, and below I will write documentation on the process of executing:
+
+HTTP REQUEST - we can add a test plan and test a targeted link and even specify a particular path under HTTP request, we can adjust the thread users to 50 100 or more and we can set a ramp up period between requests. Adding listeners to view reports in table or tree format allows to see a stamp time and more information about the web hits.
+ASSERTIONS - 
+
